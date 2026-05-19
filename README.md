@@ -71,7 +71,7 @@ rsna-spine-degeneration-classifier/
 
 1. **Clone the repo**
 ```bash
-git clone https://github.com/yourusername/rsna-spine-degeneration-classifier.git
+git clone https://github.com/Sydney-Kelly/rsna-spine-degeneration-classifier.git
 ```
 
 2. **Add Kaggle credentials to Colab Secrets**
